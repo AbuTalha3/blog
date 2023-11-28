@@ -1,4 +1,4 @@
-# README
+# README PRACTICE A RUBY ON RAIL PROJECT SETUP
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
